@@ -1,2 +1,0 @@
-;; Generated package description from tex-item.el  -*- no-byte-compile: t -*-
-(define-package "tex-item" "0.1.0.20240617.174820" "Commands for working with tex items" '((emacs "27.1")) :commit "ee1957f3bce6ed04627b985e95a17db190781e06" :authors '(("Paul D. Nelson" . "nelson.paul.david@gmail.com")) :maintainer '("Paul D. Nelson" . "nelson.paul.david@gmail.com") :keywords '("tex" "convenience") :url "https://github.com/ultronozm/tex-item.el")
